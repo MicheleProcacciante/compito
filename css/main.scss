@@ -106,3 +106,31 @@ p{
   padding-left: 10px;
   position: absolute;
 }
+.row3{
+  background-color: #44D7B6;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 30px;
+    color: #fff;
+    font-size: 25px;
+    .left{
+      text-align: center;
+      img{
+        width: 100%;
+        margin: 10px;
+      }
+    }
+    .right{
+      img{
+        width: 50%;
+        margin: 10px;
+      }
+      .p1{
+        float: right;
+        padding: 0px;
+      }
+    }
+}
