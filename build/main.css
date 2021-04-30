@@ -10842,6 +10842,7 @@ a.text-dark:hover, a.text-dark:focus {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url(../immagini/trattore.jpg) no-repeat center/cover;
   background: linear-gradient(rgba(0, 0, 0, 0.5)), url(../immagini/trattore.jpg) no-repeat center/cover;
   color: #fff;
+  background-position: inherit;
 }
 
 .container {
@@ -10958,19 +10959,6 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 @media (max-width: 576px) {
-  .sport img {
-    width: 314px;
-    height: 233px;
-    margin: -76px -23px 0 35px;
-    border-radius: 2.8rem;
-    -webkit-box-flex: reverse;
-        -ms-flex: reverse;
-            flex: reverse;
-  }
-  .row3 .right img {
-    width: 100%;
-    margin: 10px;
-  }
   .Rectangle {
     width: 58px;
     height: 25px;

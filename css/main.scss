@@ -6,6 +6,7 @@
     padding: 176px 0 120px;
     background: linear-gradient(rgba(0,0,0,.5)), url(../immagini/trattore.jpg) no-repeat center/cover;
     color: #fff;
+    background-position: inherit;
 }
 
 .container{
@@ -122,17 +123,8 @@
 
 
 @media (max-width: 576px) {
-  .sport img {
-    width: 314px;
-    height: 233px;
-    margin: -76px -23px 0 35px;
-    border-radius: 2.8rem;
-    flex:reverse;
-  }
-  .row3 .right img {
-    width: 100%;
-    margin: 10px;
-  }
+  
+  
   .Rectangle {
     width: 58px;
     height: 25px;
