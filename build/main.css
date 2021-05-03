@@ -10873,9 +10873,6 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .sport {
-  width: 1160px;
-  height: 518px;
-  margin: 40px 60px 57px;
   padding: 35px 35px 34px 34px;
   border-radius: 20px;
   -webkit-box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
@@ -10925,11 +10922,6 @@ a.text-dark:hover, a.text-dark:focus {
     -webkit-box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
             box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
     background-image: linear-gradient(151deg, #4e3cae 5%, #785aed 100%);
-  }
-  .sport .img {
-    width: 271px;
-    height: 231px;
-    margin: 38px 0 0 1px;
   }
 }
 
