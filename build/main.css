@@ -10912,23 +10912,6 @@ a.text-dark:hover, a.text-dark:focus {
   margin-bottom: 30px;
 }
 
-@media (max-width: 576px) {
-  .sport {
-    width: 310px;
-    height: 601px;
-    margin: 30px 15px 52px;
-    padding: 80px 19px 27px;
-    border-radius: 20px;
-    -webkit-box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
-            box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
-    background-image: linear-gradient(151deg, #4e3cae 5%, #785aed 100%);
-  }
-}
-
-.img-2 {
-  border-radius: 20px;
-}
-
 .Rectangle {
   width: 58px;
   height: 25px;
