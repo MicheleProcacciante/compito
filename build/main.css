@@ -10845,6 +10845,11 @@ a.text-dark:hover, a.text-dark:focus {
   background-position: inherit;
 }
 
+.img-3 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 .container {
   margin-top: 24px;
   padding: 30px;
@@ -10915,7 +10920,7 @@ a.text-dark:hover, a.text-dark:focus {
 .Rectangle {
   width: 58px;
   height: 25px;
-  margin: -243px 60px 0px 264px;
+  margin: -290px 60px 0px 400px;
   background-color: #e77474;
   padding-left: 10px;
   position: absolute;
